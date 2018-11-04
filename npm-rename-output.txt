@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Set project parameters to:
+---------------------------------------------------------
+Project name:  kidzz
+Company name:  potatolivellp
+Package name:  com.potatolivellp.kidzz
+---------------------------------------------------------
